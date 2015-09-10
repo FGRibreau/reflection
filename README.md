@@ -1,2 +1,4 @@
 # reflection
-Reflection for JavaScript
+
+Just playing around with esprima & reflection...
+
